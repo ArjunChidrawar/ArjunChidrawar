@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @ArjunChidrawar
+- 🎓 I'm a sophomore at Williams College
 - 👀 I’m majoring in Computer Science, Economics
 - 🌱 I’m currently learning Chinese, Investment Analysis through a winter intensive course
 - 📫 How to reach me: chidrawar.arjun@gmail.com, 862-373-6373
