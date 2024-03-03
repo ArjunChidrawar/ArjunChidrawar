@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArjunChidrawar
 - 🎓 I'm a senior at Williams College
 - 👀 I’m majoring in Computer Science, Chinese
-- 🌱 I’m currently learning Machine Learning, Computer Architecture
+- 🌱 I’m currently learning Theory of Computation, Function Programming, Differential Equations
 - 📫 How to reach me: chidrawar.arjun@gmail.com, 862-373-6373
 
 <!---
