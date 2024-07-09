@@ -4,6 +4,7 @@
 - 👀 At MIT, I am doing a financial engineering concentration
 - 🌱 Some of my recent coursework includes Theory of Computation, Functional Programming, Differential Equations, Financial Mathematics
 - 📫 How to reach me: chidrawar.arjun@gmail.com, 862-373-6373
+- Check out some of my projects on the repository page!
 
 <!---
 ArjunChidrawar/ArjunChidrawar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
