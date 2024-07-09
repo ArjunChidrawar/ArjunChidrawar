@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ArjunChidrawar
-- 🎓 I'm a senior at Williams College
-- 👀 I’m majoring in Computer Science, Chinese
-- 🌱 I’m currently learning Theory of Computation, Functional Programming, Differential Equations
+- 🎓 I'm class of '24 at Williams College and I majored in Computer Science, Chinese
+- 🎓 I'm currently doing a 2-years Master's degree in Finance at MIT
+- 👀 At MIT, I am doing a financial engineering concentration
+- 🌱 Some of my recent coursework includes Theory of Computation, Functional Programming, Differential Equations, Financial Mathematics
 - 📫 How to reach me: chidrawar.arjun@gmail.com, 862-373-6373
 
 <!---
